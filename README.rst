@@ -1,7 +1,9 @@
 PQI Air Card sync utility for Windows
 ------------------------
 
-To install:
+How to install ?
+^^^^^
+
 1.  Download forceBindIP to bind PQI Air Card IP to a specific Wifi network adapter
 
     ::
