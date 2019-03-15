@@ -20,4 +20,4 @@ How to install ?
 
     ::
 
-        "C:\Program Files (x86)\ForceBindIP\ForceBindIP64.exe" 192.168.1.1 "C:\Users\User\Downloads\wget.exe"  -c --reject html,cgi -m http://192.168.1.1/sd/DCIM/ -o wget.log -P "C:\Users\User\Desktop\PQI Air Card.wget"
+        "C:\Program Files (x86)\ForceBindIP\ForceBindIP64.exe" 192.168.1.1 "C:\Program Files (x86)\GnuWin32\bin\wget.exe"  -c --reject html,cgi -m http://192.168.1.1/sd/DCIM/ -o wget.log -P "C:\Users\User\Desktop\PQI Air Card.wget"
